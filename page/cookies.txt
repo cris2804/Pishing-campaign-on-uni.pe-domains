@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+univirtual.uni.pe	TRUE	/	FALSE	1999999999	MoodleSession	esjbecpbuhdkiu8un5p7sqfhrg
+
